@@ -66,11 +66,9 @@ In this solution, there is a project that has already been set up using Entity F
 
 Delivarable: In your slack message to instructors, include a screenshot of the ERD for your concerts table in pgAdmin to show you have completed this step.
 
-**Goal 2**: Add a performers table to your database. Implement a many-to-many relationship between concerts and performers. It's up to you what fields your performers table includes, but it should have at least 3 fields. (6 points possible)
+**Goal 2**: Add a performers table to your database. Implement a many-to-many relationship between concerts and performers. It's up to you what fields your performers table includes, but it should have at least 3 fields. (7 points possible)
 
 Deliverable: In your slack message to instructors, include a screenshot of the ERD for your concerts and performers tables in pgAdmin to show you have completed this step.
-
-(following instructions is 1point).
 
 ## Extra Challenge (0 Points Possible)
 
