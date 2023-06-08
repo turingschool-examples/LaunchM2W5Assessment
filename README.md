@@ -1,4 +1,4 @@
-﻿# Mod 2 Week 5 Assessment
+# Mod 2 Week 5 Assessment
 
 Start by Forking this repo.
 
@@ -19,7 +19,6 @@ Start by Forking this repo.
 1. Replace the ____________s with the code required to create the models required for the following entity relationship diagram. Don't worry about `Routeid` vs `RoutesId` and `Stopid` vs `StopsId`, either is fine. Also, no need to include the `terminus` column. (2 points possible)
 
 <img width="600" alt="Stop and Route ERD" src="https://user-images.githubusercontent.com/11747682/228308854-d2328b8c-32d2-4eb9-aa0d-8a2b3d4c6bfa.png">
-<a href="https://www.visual-paradigm.com/tutorials/how-to-model-relational-database-with-erd.jsp">citation</a>
 
 ```C#
 namespace BusTransitApp
@@ -80,4 +79,4 @@ Add some seed data for performers and concerts.
 When finished:
 * Commit your changes in Visual Studio
 * Push up to GitHub
-* DM a link to your forked repository to your instructors along with your two screenshots.
+* Submit the link to your forked repository in the submission form posted in slack!
